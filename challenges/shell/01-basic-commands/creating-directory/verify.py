@@ -1,17 +1,17 @@
 
 import pathlib
 import urllib.request
-from functools import cache
+from functools import lru_cache
 import json
 
 
 url = "http://challenges.leone.ucll.be"
 
-@cache
+@lru_cache(maxsize=None)
 def find_test_path():
     return pathlib.Path(__file__).parent.resolve()
 
-@cache
+@lru_cache(maxsize=None)
 def find_root():
     current_path = find_test_path()
     while not (current_path / "pyproject.toml").exists():
@@ -47,8 +47,9 @@ def query_server():
     return json.loads(response)
 
 def failure_message(response):
-    if response['message']:
-        return f'Failed: {response["message"]}'
+    message = response.get('message', '')
+    if message:
+        return f'Failed: {message}'
     else:
         return 'Wrong answer'
 

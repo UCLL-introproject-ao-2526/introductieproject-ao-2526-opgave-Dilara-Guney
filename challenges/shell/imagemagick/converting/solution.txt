@@ -1,0 +1,1 @@
+magick lena.png lena.jpg

@@ -1,0 +1,17 @@
+<countries>
+  <country>
+    <name>France</name>
+    <capital>Paris</capital>
+    <population>69</population>
+  </country>
+  <country>
+    <name>Belgium</name>
+    <capital>Brussels</capital>
+    <population>12</population>
+  </country>
+  <country>
+    <name>Netherlands</name>
+    <capital>Amsterdam</capital>
+    <population>17</population>
+  </country>
+</countries>

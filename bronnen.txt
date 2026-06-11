@@ -1,0 +1,38 @@
+Samenvatting:
+
+De video bespreekt de toegankelijkheidsupdate die werd toegevoegd aan *Cosmonious High*, een VR-game die ontwikkeld werd om de ervaring voor blinde en slechtziende spelers te verbeteren.
+De ontwikkelaars leggen uit dat virtual reality vaak als ontoegankelijk wordt beschouwd omdat belangrijke informatie in games meestal alleen visueel wordt weergegeven.
+Tijdens het testen ontdekten ze dat spelers te maken kregen met “informatieongelijkheid”, omdat zij niet dezelfde informatie konden verkrijgen als ziende spelers.
+Om dit probleem op te lossen, ontwikkelde het team een toegankelijkheidsmodel met tekst-naar-spraak (TTS) waarmee zowel interactieve als niet-interactieve objecten beschreven konden worden. 
+Spelers konden beschrijvingen horen wanneer ze naar objecten wezen, ze vastpakten of erover bewogen, zoals posters, dagboeken, boeken en tutorialvensters.
+De ontwikkelaars merkten ook dat beschrijvingen alleen niet voldoende waren, omdat spelers nog steeds moeite hadden om objecten te vinden en door de spelwereld te navigeren. 
+Daarom werden teleportatiebeschrijvingen aangepast zodat locaties werden uitgelegd aan de hand van herkenningspunten. 
+Daarnaast werd ruimtelijke audio toegevoegd om spelers te helpen de richting en afstand van objecten te bepalen. 
+Haptische feedback zorgde ervoor dat controllers trilden wanneer spelers zich dicht bij interactieve objecten bevonden. 
+Voor slechtziende spelers werden ook visuele highlights en een beter contrast toegevoegd.
+Tijdens het testen bleek echter dat te veel ondersteunende audio overweldigend werd en de controle van de speler verminderde. 
+Lange beschrijvingen onderbraken de gameplay en maakten het moeilijk om belangrijke informatie te herkennen. 
+Daarom werden beschrijvingen herwerkt zodat de belangrijkste informatie eerst werd afgespeeld en onnodige details verwijderd werden. 
+Er werd ook een assist-knop toegevoegd waarmee spelers zelf konden bepalen wanneer TTS-beschrijvingen werden afgespeeld. 
+De video toont uiteindelijk aan hoe doordacht toegankelijkheidsdesign VR inclusiever, zelfstandiger en aangenamer kan maken voor blinde en slechtziende spelers.
+
+
+Persoonlijke reflectie:
+
+Ik zelf vond het een zeer boeiende video omdat ik zelf aan het overwegen ben om later te werken als game developer(nog niet zeker over).
+Als een persoon die zelf slechtziend is zonder bril vond ik het wel interessant want ik herinner mijn eerste ervarin met VR en deze was niet zo aangenaam omdat ik niet veel zag zonder bril.
+Toen kon ik nog beter zien dan nu. Het was interessant om te leren over alle mogelijkheden die er waren om VR zo toegankelijk mogelijk te maken. Zelf was ik tijdens het bekijken van de video mee aan het denken naar oplossingen, maar dit was zeer moeilijk.
+Zeer onder de indruk van hun dat ze toch nog een hele boel oplossingen hebben kunenn vinden om het zo toegankelijk mogelijk te maken.
+Voor de rest vond ik dat de presentators zelf iets meer voorbereid mochten presenteren. Het was dudielijk dat ze een tekst aan het aflezen waren.
+Dan denk ik, verzin toch ter plekke iets. Jullie hebben eraan gewerkt maandenlang je weet waar het over gaat. Hun PPT had niet al hun tekst erop.
+Dus ze konden makkelijk zelf iets verzinnen met de zinnen die ze in hun PPT hadden gezet. Dat vond ik ook slecht. Zinnen in een PPT. 
+Ik probeerde deze te lezen maar het ging niet soms wel omdat ze veel te vertellen hadden tijdens die dia en soms moest ik terug spoelen om te lezen wat er op stond.
+Ook lazen ze elkaars teksten soms perongeluk af.
+
+
+Conclusie: 
+
+De video was zeer interessant en leerrijk over VR-toegankelijkheid, maar de presentatie zelf kon beter voorbereid en spontaner gebracht worden door de presentatoren.
+
+
+
