@@ -1,0 +1,27 @@
+Hallo Daan,
+
+Ik schrijf u deze email om feedback te geven over het introductieproject dat ik de afgelopen week heb afgewerkt.
+
+Over het algemeen heb ik het introductieproject als een zeer boeiende en leerrijke ervaring ervaren. 
+Als iemand die pas is begonnen met Toegepaste Informatica was het in het begin best overweldigend, maar ik merkte al snel dat de opdrachten zo opgebouwd zijn dat je stap voor stap de belangrijkste onderdelen van IT zelf leert ontdekken. 
+Dat is volgens mij de grootste kracht van dit project.
+
+Wat ik bijzonder waardeer, is dat je door de challenges een breed beeld krijgt van wat IT allemaal inhoudt. 
+Van artificiële intelligentie tot beveiliging en programmeren: je krijgt de kans om zelf te ontdekken welke domeinen je interesseren en welke minder. 
+Voor mij persoonlijk was dat een waardevolle ervaring, omdat ik nog niet goed wist wat ik later wou doen binnen IT.
+
+Het project zelf, het maken van een spel in Python met pygame, was ook een uitstekende keuze. Het voelde echt als het werk van een IT-professional: een tutorial volgen, code begrijpen, uitbreiden, en af en toe vastlopen en hulp zoeken. 
+Zo leer je hoe het echte leven als IT'er eruitziet, veel beter dan wanneer je alleen theorie zou leren.
+
+Ook de communicatieopdrachten vond ik een meerwaarde. 
+Leren hoe je professioneel een email schrijft of hoe je efficiënt hulp vraagt zijn vaardigheden die je vaak niet aanleert in andere vakken, maar die je dagelijks nodig hebt in een professionele omgeving.
+
+Een extra context die ik graag wil meegeven: ik werk bij het bedrijf van mijn neven, en mijn broer werkt daar ook samen met hen. 
+Ze zijn allemaal IT'ers en hebben mij tijdens deze opdracht meermaals geholpen wanneer ik vastliep. 
+Dankzij hen begreep ik al snel dat wat we in dit project leren: Git, samenwerken, hulp zoeken, problemen oplossen. Dit is precies wat in de praktijk dagelijks gebruikt wordt. 
+Dat maakte het voor mij extra motiverend.
+
+Al bij al ben ik zeer tevreden over het introductieproject. Het is een uitstekende manier om nieuwe studenten kennis te laten maken met de wereld van Toegepaste Informatica op een manier die tegelijk realistisch, uitdagend en motiverend is.
+
+Met vriendelijke groeten,
+Dilara Guney
